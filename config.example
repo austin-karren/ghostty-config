@@ -1,0 +1,6 @@
+# themes I like:
+# dark: Andromeda, catppuccin-mocha
+# light: catppuccin-latte
+theme = dark:Andromeda,light:catppuccin-latte
+font-family = MonoLisa
+font-size = 15
