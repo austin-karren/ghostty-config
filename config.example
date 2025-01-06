@@ -4,3 +4,9 @@
 theme = dark:Andromeda,light:catppuccin-latte
 font-family = MonoLisa
 font-size = 15
+window-padding-y = 6
+window-padding-x = 6
+window-padding-balance = true
+
+# keybinds
+keybind = global:cmd+shift+space=toggle_quick_terminal
