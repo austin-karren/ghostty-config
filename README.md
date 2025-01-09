@@ -1,5 +1,5 @@
 # Ghostty Config
 
-My example config for Ghostty
+My config for Ghostty
 
 [Ghostty Docs](https://ghostty.org/docs)
